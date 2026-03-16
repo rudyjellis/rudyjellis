@@ -1,4 +1,4 @@
-# Hi, I'm Rudy J. Ellis 👋
+# Hi, I'm Rudy J. Ellis 👋🏾
 
 **CEO, Founder, Builder** — leveraging AI to accelerate startup execution.
 
