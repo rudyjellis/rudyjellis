@@ -4,7 +4,7 @@
 
 ## Current Work
 
-- **CEO** at [Switchboard Live](https://switchboardlive.com) — Live video streaming platform
+- **Founder & CEO** at [Switchboard Live](https://switchboardlive.com) — Live multistreaming platform for the Public Sector
 - **Founder** at [Diger Studios](https://digerstudios.com) — SaaS apps for consumers and small businesses
 
 ## Projects
@@ -12,7 +12,7 @@
 🔥 [CouplePay](https://couplepayapp.com) — Credit card debt payoff planner for couples  
 🎯 [Big Rocks Board](https://bigrocks.digerstudios.com) — Productivity app using the Big Rocks methodology  
 ✅ [Validate](https://validate.digerstudios.com) — SaaS idea validation tool  
-🎟️ [TixHawk](https://tixhawk.com) — Last-minute concert ticket alerts
+<!-- 🎟️ [TixHawk](https://tixhawk.com) — Last-minute concert ticket alerts -->
 
 ## Connect
 
